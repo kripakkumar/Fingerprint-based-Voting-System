@@ -6,19 +6,19 @@
 
 This is a secure and efficient voting system using fingerprint authentication and RTOS.
 
-## 🛠 Technologies Used
+##  Technologies Used
 - ESP32
 - RTOS (Real-Time Operating System)
 - Firebase (IoT integration)
 - UART Communication
 - C Programming (Embedded C)
 
-## 📦 Features
+##  Features
 - Voter authentication using fingerprint module
 - Data sent to Firebase for real-time monitoring
 - RTOS-based task management for better timing and control
 
-## 🚀 How to Use
+##  How to Use
 1. Upload code to the ESP32 board.
 2. Connect fingerprint sensor via UART.
 3. Configure Firebase credentials.
